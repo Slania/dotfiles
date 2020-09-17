@@ -1,5 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
-let g:netrw_dirhist_1='/Users/srangarajan/.gem/ruby/2.3.1/gems/sidekiq-4.1.4/lib/sidekiq'
-let g:netrw_dirhist_2='/Users/srangarajan/8b/apps/pgs/app/interactors/ach/file_generator'
-let g:netrw_dirhist_3='/Users/srangarajan/8b/apps/pgs/lib/financial_institutions/ach'
